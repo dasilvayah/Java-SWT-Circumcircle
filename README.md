@@ -12,4 +12,4 @@ Then coordinates of circumcircle, O(x,y) will be
 
 In this app, user specifies three points by clicking mouse. When all three points are specified, it will draw its circumcircle.
 
-
+![alt text](https://github.com/oleksiilihai/Java-SWT-Circumcircle/image.png)
